@@ -1,4 +1,4 @@
- {
+{
 "bothBad": "Select {count, plural, =1 {folder {alsoAParam} here} other {folders}}",
 "bothGood": "Select {count} '{alsoNotAParam}' {count, plural, =1 {folder} other {folders}}",
 "countbad":"This is a '{count}'",
