@@ -1,8 +1,8 @@
  {
-"bothBad": "Select {count} {count, plural, =1 {folder {aParam} here} other {folders}}",
-"bothGood": "Select {count} '{notAParam}' {count, plural, =1 {folder} other {folders}}",
-"countbad":"This is a {count}",
-"countgood":"This is a {count} '{notAParam}'",
-"icubad":"{count, plural, =1 {folder {param1}} other {folders {param2}}}",
-"icugood":"{count, plural, =1 {folder {param1}} other {folders {param2} '{notAParam}'}}"
+"bothBad": "Select {count, plural, =1 {folder {alsoAParam} here} other {folders}}",
+"bothGood": "Select {count} '{alsoNotAParam}' {count, plural, =1 {folder} other {folders}}",
+"countbad":"This is a '{count}'",
+"countgood":"This is a {count} '{alsoNotAParam}'",
+"icubad":"{count, plural, =1 {folder} other {folders {param2}}}",
+"icugood":"{count, plural, =1 {folder {param1} '{alsoNotAParam}'} other {folders {param2}}}"
 }
