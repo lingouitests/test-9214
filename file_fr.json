@@ -1,8 +1,0 @@
- {
-  "bothBad": "Sélectionnez {count} {count, plural, =1 {dossier {aParam} ici} other {dossiers}}",
-  "bothGood": "Sélectionnez {count} '{notAParam}' {count, plural, =1 {dossier} other {dossiers}}",
-  "countbad": "Il s'agit d'un {count}",
-  "countgood": "Il s'agit d'un {count} '{NotaParam}'",
-  "icubad": "{count, plural, =1 {dossier {param1}} other {dossiers {param2}}}",
-  "icugood": "{count, plural, =1 {dossier {param1}} other {dossiers {param2} '{NotaParam}'}}"
-}
