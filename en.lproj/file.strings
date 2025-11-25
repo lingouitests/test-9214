@@ -1,4 +1,3 @@
-"bothGood"="Select %count '{notAParam}' {count, plural, =1 {folder} other {folders}}";
 "countbad"="This is a {count}";
 "countgood"="This is a {count} '{notAParam}'";
 "icubad"="{count, plural, =1 {folder {param1}} other {folders {param2}}}";
